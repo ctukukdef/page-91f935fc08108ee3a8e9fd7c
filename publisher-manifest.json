@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cdc420e513caad0ca9f70e8c",
+  "owner": "ctukukdef",
+  "repo": "page-91f935fc08108ee3a8e9fd7c",
+  "title": "白蘑菇",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "91f935fc08108ee3a8e9fd7c",
+      "a": "白蘑菇",
+      "b": "机场官网线路发布页",
+      "entity": "白蘑菇",
+      "brand": "白蘑菇",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f8b0cdd9420623db992725944cfe48d1245776fcced3ff744ae5a0e2aa7feb36",
+      "content": {
+        "primary_entity": "白蘑菇",
+        "keyword1": "白蘑菇",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows 可用 Clash Verge，macOS 可用 ClashX，Android 可用 Clash Meta，iOS 可用 Shadowrocket，路由器可按 OpenWrt 文档配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选合适套餐，按引导完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，立即连接",
+          "AI_DESCRIPTION": "，三档套餐覆盖轻度浏览到团队办公，从每月100GB到1000GB流量、3至20台设备同时在线，可按月或按年付费。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备，适合手机与电脑轻度使用；旗舰版每月300GB、5台设备，适合多设备日常与流媒体。",
+          "AI_FAQ_ANSWER_2": "登录后进入订阅管理，复制订阅链接或下载配置文件，按所选客户端的导入说明操作即可。",
+          "AI_FAQ_ANSWER_3": "团队版支持最多20台设备同时在线，如需更多设备或企业定制路由，可通过专属客户经理沟通。",
+          "AI_FAQ_ANSWER_4": "可以，套餐支持按月付费，也提供年付方案，按年付更划算，可按使用周期灵活切换。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化和高带宽节点，对延迟敏感的游戏或远程办公体验更稳定。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版流量与设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_3": "团队版最多支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "可以按月付费吗？年付有优惠吗？",
+          "AI_FAQ_QUESTION_5": "旗舰版相比基础版在游戏加速方面有何优势？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "套餐按流量和设备数分级，可根据日常使用规模选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版300GB、5台设备；团队版1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "订阅链接可导入主流客户端，不同系统按对应文档配置，设备数量以套餐标注为准。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付方案折算更低，长期使用可按年付费节省成本。",
+          "AI_FEATURE_TITLE_1": "按需选流量",
+          "AI_FEATURE_TITLE_2": "多设备订阅",
+          "AI_FEATURE_TITLE_3": "灵活计费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "白蘑菇提供按月或按年计费的多档套餐，覆盖每月100GB到1000GB流量、3至20台设备同时在线，适配日常浏览、流媒体与团队办公场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备需求选",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数分级",
+          "AI_HIGHLIGHT_2": "支持月付和年付两种周期",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线游戏优化",
+          "AI_PLANS_INTRO": "对比各档套餐的流量、设备数与价格，按实际使用规模选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与设备数量，在基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、设备上限与计费周期是否满足需求。",
+          "AI_STEP_TEXT_3": "在客户端中按文档说明导入订阅链接或配置文件并连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白蘑菇多档套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hggjgwzx.com",
+    "host": "hggjgwzx.com"
+  },
+  "file_hashes": {
+    "index.html": "99f1492efdd5af0de5f91ab9e86be90c3d6c8f64b5a0f3cd1614aa5c42e0b942",
+    "sitemap.xml": "04ba8c3f8574a366c8ddbcff329706b270d1e0f482605688773ca52b8eb71e40",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "28b11d94bc4a726065e3449717987e3139b334b71d9645c49660c1de1f36e105",
+    "robots.txt": "9ebd78ee33bc564ffb442a0bed64cdecbf7d017aecb3cbab6958c8a4a5876fa2",
+    "4c9989f071133dd3dd1d0625808ae61b.txt": "82bd1b94a8b42d88b7304b5e6812815ee05f27f4be102371996e3251d5af0b65"
+  },
+  "revision": "6e9388534da1e579373572505abd1b4354a129450dfc42f75bd8285727a0de09"
+}
